@@ -1,2 +1,2 @@
 # persianHtml2canvas
-resolve a problem convert persian unicod
+resolve a problem capture persian unicod
